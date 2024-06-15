@@ -40,8 +40,21 @@ Welcome to **VivaSoft HR**, a comprehensive and intuitive Human Resources Manage
 
 Please contact me for demo version
 
-##Screenshots
+## Screenshots
 
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/dashboard.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/employees.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/salary.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/leave.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/reports.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/schedules.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/docs.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/settings.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/employee_dash.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/employee_acc.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/employee_salary.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/employee_leaves.png" height="100%">
+<img src="https://github.com/atanas000/VivaSoft-Web/blob/a29b0c20a159f16b765ffbe165425a5dde2b22f0/screenshots/employee_new_leave.png" height="100%">
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
