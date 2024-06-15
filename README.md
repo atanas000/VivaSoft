@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/atanas000/VivaSoft-Web/blob/485c009385890ef3c8a812cb60b00057faad3283/screenshots/logo.png" alt="VivaSoft HR Banner" height="500">
+  <img src="https://github.com/atanas000/VivaSoft-Web/blob/485c009385890ef3c8a812cb60b00057faad3283/screenshots/logo.png" alt="VivaSoft HR Banner" height="300">
 </div>
 
 Welcome to **VivaSoft HR**, a comprehensive and intuitive Human Resources Management System (HRMS) designed to enhance and simplify your HR operations. Whether you're managing a small team or a large enterprise, VivaSoft HR provides all the necessary tools to efficiently manage your workforce.
