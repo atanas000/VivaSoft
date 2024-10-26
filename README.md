@@ -62,5 +62,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 For more information or if you have any questions, feel free to reach out to us:
 
-- Email: atanas.iliev@vivasoft.tech
-- Website: hr.vivasoft.tech
+- Email: info@vivasoft.tech
